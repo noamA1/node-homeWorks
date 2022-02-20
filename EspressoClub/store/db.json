@@ -1,0 +1,7 @@
+[
+  { "code": 435665, "type": "vanila", "price": 25.25, "strength": 3 },
+  { "code": 435465, "type": "arabica", "price": 22.5, "strength": 5 },
+  { "code": 435698, "type": "espresso", "price": 21.25, "strength": 1 },
+  { "code": 435690, "type": "carmel", "price": 25.25, "strength": 3 },
+  { "code": 445789, "type": " colombia", "price": 20.25, "strength": 4 }
+]
